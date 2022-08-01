@@ -5,7 +5,11 @@
 
 ```
 git clone https://github.com/EduardoP103/Proyect-Django.git
+```
+```
 pip install -r requirements.txt
+```
+```
 python manage.py runserver
 ```
 
